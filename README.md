@@ -1,11 +1,11 @@
 # GUIDb
-Questo progetto è stato realizzato per visualizzare i dati di una tabella chinook.db usando un'app MAUI oppure WPF\
+Questo progetto è stato realizzato per visualizzare i dati di una tabella chinook.db usando un'app MAUI oppure WPF, con l'aiuto dei professori di informatica Conti Maurizio e Sartini Matteo. \
 Per creare questo progetto bisogna seguire i seguenti passi: 
 1. Creare il progetto MAUI su visual studio, quello d ascegliere è il seguente
 
 ![image](https://github.com/fedecauwedy/GUIDb/assets/116791048/40336221-ecd0-4599-a561-1d653a8b86b4)
 
-2. Occorerre anche inserire la libreria sqlite-net-pcl, per farlo bisogna andare nel nostro file c# e fare un click con il tasto destro  dove verrà fuori una finestrella e cliccare su " Gestisci pacchetti NuGet..."
+2. Occorre anche inserire la libreria sqlite-net-pcl, per farlo bisogna andare nel nostro file c# e fare un click con il tasto destro  dove verrà fuori una finestrella e cliccare su " Gestisci pacchetti NuGet..."
 
 ![image](https://github.com/fedecauwedy/GUIDb/assets/116791048/1cc5d453-beca-4ce8-a1e6-67699226960f)
 
